@@ -2,7 +2,9 @@
   "name": "clean-node-api",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [],
   "author": "AlissonSantos17",
   "license": "",
